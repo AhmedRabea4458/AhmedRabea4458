@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Rabea</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
-
+<h3 align="center">Flutter Developer | Mobile Craftsman | Made in Egypt 🇪🇬
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **aarr882004@gmail.com**
