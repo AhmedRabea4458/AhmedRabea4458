@@ -8,11 +8,6 @@
 Flutter Developer | Firebase | REST APIs | Clean Architecture
 </h3>
 
-<p align="center">
-  <a href="https://github.com/AhmedRabea4458">
-    <img src="https://img.shields.io/github/followers/AhmedRabea4458?label=Followers&style=for-the-badge"/>
-  </a>
-</p>
 
 ---
 
