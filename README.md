@@ -61,9 +61,6 @@ A modern application for tracking income, expenses and financial goals.
 ### 🏥 Radiology & Lab System
 Medical appointment and approval management platform.
 
-### 📊 Finance Manager
-Personal finance management application with reporting features.
-
 ### 📱 Flutter UI Collection
 Reusable Flutter UI components and modern application screens.
 
