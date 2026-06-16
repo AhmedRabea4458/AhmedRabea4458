@@ -1,18 +1,118 @@
-<h1 align="center">Hi 👋, I'm Ahmed Rabea</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
-
-- 🌱 I’m currently learning **Flutter**
-
-- 📫 How to reach me **aarr882004@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ahmed0109208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed0109208" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmedrabea886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedrabea886" height="30" width="40" /></a>
-<a href="https://fb.com/ahmd.rby.bd.alhmyd.76983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmd.rby.bd.alhmyd.76983" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Ahmed%20Rabea&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Ahmed Rabea</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrabea4458&show_icons=true&locale=en&layout=compact" alt="ahmedrabea4458" /></p>
+<h3 align="center">
+Flutter Developer | Firebase | REST APIs | Clean Architecture
+</h3>
+
+<p align="center">
+  <a href="https://github.com/AhmedRabea4458">
+    <img src="https://img.shields.io/github/followers/AhmedRabea4458?label=Followers&style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 Computer Science Student at Minia University
+
+📱 Flutter Developer passionate about building real-world applications
+
+🔥 Experienced with Firebase, REST APIs and State Management
+
+🏗️ Interested in Clean Architecture and scalable mobile apps
+
+🧩 Problem Solver and continuous learner
+
+🎯 Goal: Become a Professional Mobile Engineer
+
+---
+
+## 🚀 Current Focus
+
+- Flutter Development
+- Firebase & Firestore
+- REST APIs Integration
+- Clean Architecture
+- Cubit / BLoC State Management
+- Problem Solving
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,vscode,postman" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 Expense Tracker
+A modern application for tracking income, expenses and financial goals.
+
+### 🏥 Radiology & Lab System
+Medical appointment and approval management platform.
+
+### 📊 Finance Manager
+Personal finance management application with reporting features.
+
+### 📱 Flutter UI Collection
+Reusable Flutter UI components and modern application screens.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmedRabea4458&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRabea4458&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+
+<a href="https://personal-portfolio-opal-iota.vercel.app/">
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:aarr882004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmedrabea886/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AhmedRabea4458">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</p>
